@@ -60,4 +60,3 @@ uptime:
 ====================================
 
 
-![Output](Output/output.png)
